@@ -1,0 +1,142 @@
+---
+title: Integrated Surface Dataset (Global)
+created: '2020-11-12T08:16:46.610484'
+modified: '2020-11-12T08:16:46.610492'
+state: active
+type: dataset
+tags:
+  - Air Quality
+  - Air Temperature
+  - Altimeters
+  - Altitude
+  - Anemometers
+  - Anticyclones/cyclones
+  - Atmosphere
+  - Atmospheric Chemistry
+  - Atmospheric Electricity
+  - Atmospheric Phenomena
+  - Atmospheric Pressure
+  - Atmospheric Pressure Measurements
+  - Atmospheric Radiation
+  - Atmospheric Stability
+  - Atmospheric Temperature
+  - Atmospheric Temperature Indices
+  - Atmospheric Water Vapor
+  - Atmospheric Winds
+  - Barometers
+  - Cloud Amount/frequency
+  - Cloud Ceiling
+  - Cloud Height
+  - Cloud Properties
+  - Cloud Types
+  - Cloud Vertical Distribution
+  - Clouds
+  - Convection
+  - Convergence/divergence
+  - Cryosphere
+  - Dew Point Temperature
+  - Doc/noaa/nesdis/ncdc
+  - Doc/noaa/nesdis/ncei
+  - Drought
+  - Earth Science
+  - Evaporation
+  - Floods
+  - Fog
+  - Freeze/frost
+  - Freezing Rain
+  - Frost
+  - Geographic Region
+  - Geopotential Height
+  - Global Land
+  - Ground Stations
+  - Gust Probes
+  - Hail
+  - Human Dimensions
+  - Humidity
+  - Hurricanes
+  - Ice Pellets
+  - Land Surface
+  - Lightning
+  - Liquid Precipitation
+  - Maximum/minimum Temperature
+  - Meteorological Hazards
+  - Meteorological Stations
+  - National Centers For Environmental Information
+  - National Climatic Data Center
+  - Natural Hazards
+  - Nesdis
+  - Noaa
+  - Ocean
+  - Ocean Waves
+  - Ocean Winds
+  - Oceans
+  - Oxygen Compounds
+  - Ozone
+  - Precipitation
+  - Precipitation Amount
+  - Precipitation Rate
+  - Pressure Gauges
+  - Pressure Tendency
+  - Pressure Thickness
+  - Rain
+  - Rain Gauges
+  - Rain Storms
+  - Rivers/streams
+  - Sea Ice
+  - Sea Level Pressure
+  - Sea Surface
+  - Sleet
+  - Smog
+  - Snow
+  - Snow Depth
+  - Snow Measuring Rod
+  - Snow/ice
+  - Solid Precipitation
+  - Storm Surge
+  - Stratosphere
+  - Sunshine
+  - Surface Pressure
+  - Surface Temperature
+  - Surface Water
+  - Surface Water Processes/measurements
+  - Surface Winds
+  - Temperature Probes
+  - Temperature Tendency
+  - Terrestrial Hydrosphere
+  - Thermometers
+  - Tidal Height
+  - Tides
+  - Tornadoes
+  - Tropical Cyclones
+  - Troposphere
+  - Tropospheric Ozone
+  - Turbulence
+  - Typhoons
+  - U.s. Department Of Commerce
+  - Upper Level Winds
+  - Vertical Location
+  - Vertical Wind Velocity/speed
+  - Visibility
+  - Visual Observations
+  - Vorticity
+  - Water Vapor Indicators
+  - Water Vapor Processes
+  - Water Vapor Tendency
+  - Wave Height
+  - Weather Events
+  - Wind Chill Index
+  - Wind Dynamics
+  - Wind Monitor
+  - Wind Shear
+  - Wind Tendency
+  - Wind Vanes
+  - Wind Waves
+groups: []
+csv_url: 'https://www.ncei.noaa.gov/data/global-hourly/doc/sample.csv'
+json_url: ''
+layout: post
+
+---
+The Integrated Surface Dataset (ISD) is composed of worldwide surface weather observations from over 35,000 stations, though the best spatial coverage is evident in North America, Europe, Australia, and parts of Asia. Parameters included are: air quality, atmospheric pressure, atmospheric temperature/dew point, atmospheric winds, clouds, precipitation, ocean waves, tides and more. ISD refers to the data contained within the digital database as well as the format in which the hourly, synoptic (3-hourly), and daily weather observations are stored. The format conforms to Federal Information Processing Standards (FIPS). ISD provides hourly data that can be used in a wide range of climatological applications. For some stations, data may go as far back as 1901, though most data show a substantial increase in volume in the 1940s and again in the early 1970s. Currently, there are over 14,000 "active" stations updated daily in the database.
+
+For user convenience, a subset of just the hourly data is available to users for download. It is referred to as Integrated Surface Global Hourly data, see associated download links for access to this subset.
