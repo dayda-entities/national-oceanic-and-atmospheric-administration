@@ -1,39 +1,43 @@
 ---
 title: >-
-  NOAA/WDS Paleoclimatology - Margolis fire data from Redondo Border South plot
-  3 , northern New Mexico - IMPD USRBS003
-created: '2020-12-18T22:55:22.839772'
-modified: '2020-12-18T22:55:22.839780'
+  NOAA/WDS Paleoclimatology - Margolis fire data from Rowe Mesa north, northern
+  New Mexico - IMPD USROW003
+created: '2020-12-18T22:56:20.884225'
+modified: '2020-12-18T22:56:20.884235'
 state: active
 type: dataset
 tags:
-  - Abco
-  - Abies Concolor (gordon) Lindl. Ex Hildebr.
   - Climate Indicators
+  - Colorado Pinyon
   - Continent
+  - Douglas Fir
   - Earth Science
   - Fire History
   - Fire History|tree Ring
   - Fire Scar Dates
   - Land Records
-  - Latitude 35.897918
-  - Longitude  106.581802
+  - Latitude 35.536282
+  - Longitude  105.760359
   - New Mexico
   - North America
   - Paleoclimate
   - Paleoclimate Indicators
+  - Pied
+  - Pinus Edulis Engelm.
   - Pinus Ponderosa Douglas Ex C. Lawson
+  - Pinyon
   - Pipo
   - Ponderosa Pine
-  - Redondo Border South Plot 3   Impd Usrbs003
+  - Pseudotsuga Menziesii (mirb.) Franco
+  - Psme
+  - Rowe Mesa North   Impd Usrow003
   - United States Of America
   - Western Yellow Pine
-  - White Fir
 groups: []
 csv_url: >-
-  https://www.ncei.noaa.gov/pub/data/paleo/firehistory/firescar/northamerica/supplemental/usrbs003-rbs3.fs_tree_meta.csv
+  https://www.ncei.noaa.gov/pub/data/paleo/firehistory/firescar/northamerica/supplemental/usrow003-Meta_row_north.csv
 json_url: ''
 layout: post
 
 ---
-This archived Paleoclimatology Study is available from the NOAA National Centers for Environmental Information (NCEI), under the World Data Service (WDS) for Paleoclimatology. The associated NCEI study type is Fire. The data include parameters of fire history|tree ring with a geographic location of New Mexico, United States Of America. The time period coverage is from 435 to -41 in calendar years before present (BP). See metadata information for parameter and study location details. Please cite this study when using the data.
+This archived Paleoclimatology Study is available from the NOAA National Centers for Environmental Information (NCEI), under the World Data Service (WDS) for Paleoclimatology. The associated NCEI study type is Fire. The data include parameters of fire history|tree ring with a geographic location of New Mexico, United States Of America. The time period coverage is from 311 to -61 in calendar years before present (BP). See metadata information for parameter and study location details. Please cite this study when using the data.
