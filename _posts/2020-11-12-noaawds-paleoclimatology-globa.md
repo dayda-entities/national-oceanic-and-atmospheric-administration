@@ -1,0 +1,177 @@
+---
+title: >-
+  NOAA/WDS Paleoclimatology - Global speleothem oxygen isotope measurements
+  since the Last Glacial Maximum
+created: '2020-11-12T05:48:19.503029'
+modified: '2021-01-15T17:04:06.186730'
+state: active
+type: dataset
+tags:
+  - Abrupt Climate Change
+  - Africa
+  - Amazonia
+  - Arizona
+  - Asia
+  - Australia
+  - Australia/new Zealand
+  - Austria
+  - Botuverã¡ Cave
+  - Brazil
+  - Buca Della Renella
+  - Buckeye Creek Cave
+  - Cave Deposits
+  - Cave Of The Bells
+  - Central America
+  - China
+  - Climate Indicators
+  - Cold Air Cave
+  - Cold Water Cave
+  - Continent
+  - Costa Rica
+  - Cueva Del Tigre Perdido
+  - Dongge Cave
+  - Drought
+  - Earth Science
+  - Eastern Asia
+  - Eastern Europe
+  - Europe
+  - Fort Stanton
+  - Gunung Buda National Park
+  - Heshang Cave
+  - Hoti Cave
+  - Hulu Cave
+  - Hydrology
+  - Indian Ocean
+  - Indonesia
+  - Iowa
+  - Israel
+  - Italy
+  - Jerusalem West Cave
+  - Jiuxian Cave
+  - Katerloch Cave
+  - Land Records
+  - Last Glacial Maximum
+  - Latitude  24.02
+  - Latitude  27.22
+  - Latitude  41.58
+  - Latitude  42
+  - Latitude  5.940556
+  - Latitude  8.533
+  - Latitude 10.1667
+  - Latitude 10.6
+  - Latitude 12.5
+  - Latitude 17.17
+  - Latitude 23.08
+  - Latitude 25.25
+  - Latitude 25.28
+  - Latitude 25.4833
+  - Latitude 28.8
+  - Latitude 29.483
+  - Latitude 30.45
+  - Latitude 31.45
+  - Latitude 31.667
+  - Latitude 31.75
+  - Latitude 31.783
+  - Latitude 32.08
+  - Latitude 32.083
+  - Latitude 32.5
+  - Latitude 32.58
+  - Latitude 33.3
+  - Latitude 33.5667
+  - Latitude 37.976
+  - Latitude 4.03
+  - Latitude 41.416
+  - Latitude 43.47
+  - Latitude 43.62
+  - Latitude 43.75
+  - Latitude 44.08
+  - Latitude 44.72
+  - Latitude 47.0833
+  - Liang Luar Cave
+  - Lianhua Cave
+  - Longitude  105.1667
+  - Longitude  105.3
+  - Longitude  110.75
+  - Longitude  49.16
+  - Longitude  77.308056
+  - Longitude  80.4
+  - Longitude  84.8
+  - Longitude  85.3333
+  - Longitude  91.97
+  - Longitude  92.3
+  - Longitude  92.41
+  - Longitude 10.21
+  - Longitude 107.9
+  - Longitude 108.08
+  - Longitude 109.1
+  - Longitude 109.533
+  - Longitude 109.833
+  - Longitude 110.416
+  - Longitude 110.433
+  - Longitude 110.916
+  - Longitude 114.8
+  - Longitude 119.16
+  - Longitude 120.433
+  - Longitude 146.25
+  - Longitude 15.55
+  - Longitude 172
+  - Longitude 21.75
+  - Longitude 29.11
+  - Longitude 31.934
+  - Longitude 35.03
+  - Longitude 35.15
+  - Longitude 35.19
+  - Longitude 35.37
+  - Longitude 54
+  - Longitude 54.3
+  - Longitude 57.35
+  - Lynds Cave
+  - Ma'ale Efrayim Cave
+  - Malaysia
+  - Middle East
+  - Minnesota
+  - Monsoon
+  - Moomi Cave
+  - Mystery Cave
+  - New Mexico
+  - New Zealand
+  - North America
+  - Nwsi North West Of The South Island
+  - Ocean
+  - Oman
+  - Oxygen Isotopes
+  - Paleoclimate
+  - Paleoclimate Indicators
+  - Peqiin Cave
+  - Pink Panther Cave
+  - Poleva Cave
+  - Qunf Cave
+  - Romania
+  - Sanbao Cave
+  - Sofular Cave
+  - Soreq Cave
+  - South Africa
+  - South America
+  - Southern Africa
+  - Southern Europe
+  - Speleothems
+  - Spring Valley Caverns
+  - Terciopelo Cave
+  - Turkey
+  - United States Of America
+  - Venado Cave
+  - West Virginia
+  - Western Asia
+  - Western Europe
+  - Xiangshui Cave
+  - Yamen Cave
+  - Yaoba Don Cave
+  - Yemen
+groups: []
+csv_url: >-
+  https://www.ncei.noaa.gov/pub/data/paleo/syntrace/speleothem/speleothem-d18o-1000yr-avg.csv
+json_url: ''
+layout: post
+
+---
+This archived Paleoclimatology Study is available from the NOAA National Centers for Environmental Information (NCEI), under the World Data Service (WDS) for Paleoclimatology. The associated NCEI study type is Cave. The data include parameters of speleothems (oxygen isotopes) with a geographic location of South Africa, Southern Africa. The time period coverage is from 248200 to -56 in calendar years before present (BP). See metadata information for parameter and study location details. Please cite this study when using the data.
