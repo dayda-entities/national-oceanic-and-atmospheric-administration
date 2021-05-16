@@ -1,9 +1,9 @@
 ---
 title: >-
-  NOAA/WDS Paleoclimatology - Tepley fire data from Williams Creek, southwestern
-  Colorado, IMPD USWCR001
-created: '2020-11-12T06:33:18.176363'
-modified: '2020-12-19T00:53:07.520899'
+  NOAA/WDS Paleoclimatology - Tepley fire data from Squaretop Mountain,
+  southwestern Colorado, IMPD USSQM001
+created: '2020-11-12T05:59:14.567197'
+modified: '2020-12-18T23:45:52.164673'
 state: active
 type: dataset
 tags:
@@ -12,34 +12,34 @@ tags:
   - Climate Indicators
   - Colorado
   - Continent
-  - Douglas Fir
   - Earth Science
   - Fire History
   - Fire History|tree Ring
   - Fire Scar Dates
+  - Gambel Oak
   - Land Records
-  - Latitude 37.526443
-  - Longitude  107.235773
+  - Latitude 37.230414
+  - Limber Pine
+  - Longitude  106.801681
   - North America
   - Paleoclimate
   - Paleoclimate Indicators
+  - Pifl
+  - Pinus Flexilis E. James
   - Pinus Ponderosa Douglas Ex C. Lawson
   - Pipo
   - Ponderosa Pine
-  - Populus Tremuloides Michx.
-  - Pptr
-  - Pseudotsuga Menziesii (mirb.) Franco
-  - Psme
-  - Quaking Aspen
+  - Quercus Gambelii Nutt.
+  - Quga
+  - Squaretop Mountain
   - United States Of America
   - Western Yellow Pine
   - White Fir
-  - Williams Creek
 groups: []
 csv_url: >-
-  https://www.ncei.noaa.gov/pub/data/paleo/firehistory/firescar/northamerica/supplemental/uswcr001-individual-tree-information.csv
+  https://www.ncei.noaa.gov/pub/data/paleo/firehistory/firescar/northamerica/supplemental/ussqm001-individual-tree-information.csv
 json_url: ''
 layout: post
 
 ---
-This archived Paleoclimatology Study is available from the NOAA National Centers for Environmental Information (NCEI), under the World Data Service (WDS) for Paleoclimatology. The associated NCEI study type is Fire. The data include parameters of fire history|tree ring with a geographic location of Colorado, United States Of America. The time period coverage is from 491 to -63 in calendar years before present (BP). See metadata information for parameter and study location details. Please cite this study when using the data.
+This archived Paleoclimatology Study is available from the NOAA National Centers for Environmental Information (NCEI), under the World Data Service (WDS) for Paleoclimatology. The associated NCEI study type is Fire. The data include parameters of fire history|tree ring with a geographic location of Colorado, United States Of America. The time period coverage is from 352 to -62 in calendar years before present (BP). See metadata information for parameter and study location details. Please cite this study when using the data.
