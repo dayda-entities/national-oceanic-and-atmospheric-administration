@@ -1,32 +1,21 @@
 ---
-title: >-
-  NOAA/WDS Paleoclimatology - Heyerdahl fire data from Lytle Creek, central
-  Oregon - IMPD USLYT001
-created: '2020-11-12T05:58:55.122796'
-modified: '2020-12-18T23:45:09.098835'
+title: NOAA/WDS Paleoclimatology - Heyerdahl fire data from Imnaha - IMPD USIRC001
+created: '2020-11-12T05:59:28.629239'
+modified: '2020-12-18T23:46:18.654959'
 state: active
 type: dataset
 tags:
-  - Abgr
-  - Abies Grandis (dougl. Ex D. Don) Lindl.
   - Climate Indicators
   - Continent
-  - Douglas Fir
   - Earth Science
   - Establishment Dates
   - Fire History
   - Fire History|tree Ring
   - Fire Scar Dates
-  - Giant Fir
-  - Grand Fir
-  - Juniperus Occidentalis Hook.
-  - Juoc
+  - Imnaha
   - Land Records
-  - Laoc
-  - Larix Occidentalis Nutt.
-  - Latitude 44.278528
-  - Longitude  120.290806
-  - Lytle Creek
+  - Latitude 45.12
+  - Longitude  116.98
   - North America
   - Oregon
   - Paleoclimate
@@ -34,17 +23,13 @@ tags:
   - Pinus Ponderosa Douglas Ex C. Lawson
   - Pipo
   - Ponderosa Pine
-  - Pseudotsuga Menziesii (mirb.) Franco
-  - Psme
   - United States Of America
-  - Western Juniper
-  - Western Larch
   - Western Yellow Pine
 groups: []
 csv_url: >-
-  https://www.ncei.noaa.gov/pub/data/paleo/firehistory/firescar/northamerica/supplemental/uslyt001-scarred-tree-info.csv
+  https://www.ncei.noaa.gov/pub/data/paleo/firehistory/firescar/northamerica/supplemental/usirc001-plot-information.csv
 json_url: ''
 layout: post
 
 ---
-This archived Paleoclimatology Study is available from the NOAA National Centers for Environmental Information (NCEI), under the World Data Service (WDS) for Paleoclimatology. The associated NCEI study type is Fire. The data include parameters of fire history|tree ring with a geographic location of Oregon, United States Of America. The time period coverage is from 556 to -59 in calendar years before present (BP). See metadata information for parameter and study location details. Please cite this study when using the data.
+This archived Paleoclimatology Study is available from the NOAA National Centers for Environmental Information (NCEI), under the World Data Service (WDS) for Paleoclimatology. The associated NCEI study type is Fire. The data include parameters of fire history|tree ring with a geographic location of Oregon, United States Of America. The time period coverage is from 470 to -44 in calendar years before present (BP). See metadata information for parameter and study location details. Please cite this study when using the data.
